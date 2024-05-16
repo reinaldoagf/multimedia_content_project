@@ -1,0 +1,20 @@
+/* index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Agrega tus propios estilos personalizados aquí */
+
+body {
+  margin: 0;
+}
+
+
+h1, .orbitron-font {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
